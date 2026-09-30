@@ -1,11 +1,3 @@
-# Output files (large binaries)
-outputs/*.mp4
-outputs/*.mp3
-
-# Keep images and structure
-!outputs/.gitkeep
-!assets/.gitkeep
-
 # Python
 __pycache__/
 *.pyc
